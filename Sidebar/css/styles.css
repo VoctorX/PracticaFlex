@@ -1,9 +1,10 @@
-body{ 
-  color: #555;
-  background-color: #995BED;
+body {
   margin: 0;
   font-family: 'Inter', sans-serif;
+  color: #555;
+  background: radial-gradient(circle at top left, #9a6fea, #6632ce);
 }
+
 
 .sidebar-wrapper{
   width: 300px;
